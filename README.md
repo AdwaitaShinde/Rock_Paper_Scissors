@@ -1,1 +1,1 @@
-# THis is my Rock_Paper_Scissors Game Repo
+# This is my Rock_Paper_Scissors Game Repo
